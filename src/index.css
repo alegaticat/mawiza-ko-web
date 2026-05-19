@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  /* Identidad Cromática Biocultural de Mawiza Ko (Bosque y Agua) */
+  --color-mawiza-deep: #0c2317;  /* Verde bosque templado muy oscuro (Excelente para textos/fondos contrastados) */
+  --color-mawiza: #1e4620;       /* Verde follaje nativo / Selva valdiviana */
+  --color-mawiza-light: #4c7b57; /* Verde liquen / Hoja joven */
+  --color-ko-deep: #0d2137;      /* Azul lago andino profundo */
+  --color-ko: #1b4965;           /* Azul hídrico / Río de montaña */
+  --color-ko-light: #62b6cb;     /* Turquesa cristalino / Deshielo */
+  --color-tierra: #b07d62;       /* Ocre de la tierra, greda, madera caída */
+  --color-tierra-light: #f4eae1; /* Arena / Fondo claro texturado */
+  /* Tipografías del Sistema */
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+}
