@@ -123,10 +123,10 @@ export default function Inicio({ navigateTo }) {
               <span className="font-serif italic font-light text-[#00b77a]">restaurar la vida</span>.
             </h2>
             <p className="text-black leading-relaxed text-sm md:text-base font-normal">
-              Mawizako surge como respuesta institucional ante la urgente necesidad de restaurar el Cerro Manquimávida. En el verano del **año 2020**, un gran incendio forestal asoló nuestra montaña en las comunas de Chiguayante, Concepción y Hualqui.
+              Fundada el 23 de noviembre de 2022 en la comuna de Chiguayante, la Corporación nace de la Coordinadora Restauración Mankimawiza, posterior a los incendios del 2020, como respuesta a la injusticia territorial, el riesgo de desastres y amenazas antrópicas.
             </p>
             <p className="text-black leading-relaxed text-sm md:text-base font-normal">
-              Frente a la catástrofe, los vecinos y activistas autoconvocados formaron el colectivo **"Restauración Mankimawiza"**. Hoy, consolidados formalmente como corporación biocultural, unimos el rigor de la ciencia comunitaria con la acción ecológica para proteger el territorio.
+              Desde ahí surge la necesidad de formalizarse como Corporación, enfocándonos en un proyecto permanente para devolverle la pertenencia a la comunidad, volviendo a conectar su historia con la importancia del cerro Manquimavida y restaurando no solo el ecotono adyacente al Parque Nacional Nonguén como último periurbano de bosques caducifolios y siempreverdes del sur de Chile, sino también su historia territorial.
             </p>
             
             <div className="grid grid-cols-3 gap-6 border-t border-stone-200 pt-8">
