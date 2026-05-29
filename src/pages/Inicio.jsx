@@ -2,7 +2,7 @@
 import React from 'react';
 
 // Importación de la imagen de fondo para el Hero
-import heroBg from '../assets/images/fondo-01.jpg';
+import heroBg from '../assets/images/fondo-01.JPG';
 
 export default function Inicio({ navigateTo }) {
   return (
